@@ -1,0 +1,8 @@
+groq==0.29.0
+pypdf==5.7.0
+langchain==0.3.26
+langchain-community==0.3.27
+sentence_transformers==5.0.0
+langchain-huggingface==0.3.0
+faiss-cpu==1.11.0
+langchain-groq==0.3.6
